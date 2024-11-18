@@ -1,0 +1,6 @@
+plotter/.idea
+plotter/node_modules
+plotter/generated-gifs
+plotter/.DS_Store
+.DS_Store
+plotter/outputFiles
