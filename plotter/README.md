@@ -12,7 +12,9 @@ Use the excellent https://pullautuskartta.fi/ to create an image of the area. Th
 1. ![image](https://github.com/user-attachments/assets/9b513a8f-8574-4e2e-a28e-875901406647)
 1. Zoom in the tool to what ever resolution you want (e.g so that route of a one day fits on single screen)
 2. Click on the loaded gpx route to remove it
-3. Starting from the top left corner start taking screenshots (at the wanted resolution). Use the cross markers on the map for reference. Take the screenshot so that you leave some extra near the crosses.
-4. <img width="779" alt="image" src="https://github.com/user-attachments/assets/5fb38f44-1a23-44f4-ba74-3057e573222b">
+3. Starting from the top left corner start taking screenshots (at the wanted resolution).
+5. ![image](https://github.com/user-attachments/assets/9184edef-dd51-4242-a389-a8fef8148494)
+4. Use image editing tool (Gimp) to paste in the screenshots and align them using those crosses on the map. Alignment is easy by setting the new layer somewhat opaque.
+
 
 
